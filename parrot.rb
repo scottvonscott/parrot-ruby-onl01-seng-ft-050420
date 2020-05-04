@@ -1,3 +1,3 @@
 def parrot(phrase = "Squak!")
-  puts
+  return #{phrase}
 end
